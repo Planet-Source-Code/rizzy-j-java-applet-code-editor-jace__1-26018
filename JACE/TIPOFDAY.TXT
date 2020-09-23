@@ -1,0 +1,7 @@
+Pressing CTRL+X will allow you to cut text.
+Pressing CTRL+C will allow you to copy text.
+Pressing CTRL+V will allow you to paste text.
+Pressing CTRL+N will open up a new window without interfering with the current window.
+You can view Java Documentation by clicking on the View -> Browser menu, selecting the web page and clicking on the OK button.
+You can view disassembled Java Classes by clicking on the View -> Disassembly Window menu, selecting the class file and clicking on the OK button.
+You can use the Sun Appletviewer or a web browser to view your Java applets.
